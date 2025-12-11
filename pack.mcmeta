@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Made By @Grapes_",
+    "pack_format": 94,
+    "supported_formats": [
+      1,
+      999
+    ]
+  }
+}
