@@ -37,5 +37,5 @@ Ans: ask me first
 Ans: yes
 
 4.Use for public?
-s
+
 Ans:ask
