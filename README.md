@@ -38,4 +38,4 @@ Ans: yes
 
 4.Use for public?
 
-Ans:ask
+Ans: ask
