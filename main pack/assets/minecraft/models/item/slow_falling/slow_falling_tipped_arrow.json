@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/slow_falling/slow_falling_tipped_arrow"
+  }
+}
