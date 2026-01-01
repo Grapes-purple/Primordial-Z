@@ -10,6 +10,8 @@ A new 16x16 vibrant look for your minecraft experience, That uses different reso
 
 ![OF](https://cdn.modrinth.com/data/cached_images/dbd15e72dfed2017fdc4597c57af4c8d2a184cbc.png)
 
+"[Optifine](https://optifine.net/home)":Optifine allows Minecraft to run faster and look better with full support for HD textures and many configuration options.
+
 ## WIP
 **THE PACK IS STILL IN DEVELOPMENT AND ALL THINGS ARE EXPECTED TO CHANGE**
 
@@ -30,7 +32,7 @@ Ans: hell yeah
 
 2.Use for bedrock
 
-Ans: ask me first
+Ans: NO
 
 3.Use for private?
 
@@ -38,4 +40,4 @@ Ans: yes
 
 4.Use for public?
 
-Ans: ask
+Ans: NO
