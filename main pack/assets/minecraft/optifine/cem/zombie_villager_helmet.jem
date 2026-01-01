@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "head2",
+					"invertAxis": "xy",
+					"translate": [0, 24, 0],
+					"boxes": [
+						{"coordinates": [-4, -1, -4, 8, 8, 8], "textureOffset": [0, 0], "sizeAdd": 0.75},
+						{"coordinates": [-1.1, 3.3, -5, 2, 5, 10], "textureOffset": [40, 49], "sizeAdd": 0.5},
+						{"coordinates": [-3.5, 7.7, -3.4, 7, 2, 7], "textureOffset": [0, 46]},
+						{"coordinates": [-4, -1, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 1}
+					],
+					"submodels": [
+						{
+							"id": "rotation",
+							"invertAxis": "xy",
+							"translate": [0, 5.8, -0.5],
+							"rotate": [30, 0, 0],
+							"boxes": [
+								{"coordinates": [-4, -1.8, -5.1, 8, 4, 8], "textureOffset": [32, 33], "sizeAdd": 0.95}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		}
+	]
+}
