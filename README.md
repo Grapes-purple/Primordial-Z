@@ -2,6 +2,9 @@
 
 A new 16x16 vibrant look for your minecraft experience, That uses different resource pack techniques to enhance its experience.
 
+## WIP
+**THE PACK IS STILL IN DEVELOPMENT AND ALL THINGS ARE EXPECTED TO CHANGE**
+
 ## Dependencies
 
 ![emf/etf](https://cdn.modrinth.com/data/cached_images/b299f1e79358aad54b57987968673aeba8da7abc.png)
@@ -11,9 +14,6 @@ A new 16x16 vibrant look for your minecraft experience, That uses different reso
 ![OF](https://cdn.modrinth.com/data/cached_images/dbd15e72dfed2017fdc4597c57af4c8d2a184cbc.png)
 
 "[Optifine](https://optifine.net/home)":Optifine allows Minecraft to run faster and look better with full support for HD textures and many configuration options.
-
-## WIP
-**THE PACK IS STILL IN DEVELOPMENT AND ALL THINGS ARE EXPECTED TO CHANGE**
 
 ## Socials
 ![discord](https://cdn.modrinth.com/data/cached_images/892ddcc30faa10a9b7fff2b0eda50e0418fa8df9.png)
