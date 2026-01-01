@@ -1,4 +1,4 @@
-![Title](https://cdn.modrinth.com/data/cached_images/944bfc0929169b8b9a74fa6db48ffbb64fc259fa.png)
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/5be632f4-cc4f-4c30-a49a-ca8b76f05733" />![Title](https://cdn.modrinth.com/data/cached_images/944bfc0929169b8b9a74fa6db48ffbb64fc259fa.png)
 
 A new 16x16 vibrant look for your minecraft experience, That uses different resource pack techniques to enhance its experience.
 
@@ -16,7 +16,7 @@ A new 16x16 vibrant look for your minecraft experience, That uses different reso
 "[Optifine](https://optifine.net/home)":Optifine allows Minecraft to run faster and look better with full support for HD textures and many configuration options.
 
 ## Socials
-![discord](https://cdn.modrinth.com/data/cached_images/892ddcc30faa10a9b7fff2b0eda50e0418fa8df9.png)
+![discord](https://media.discordapp.net/attachments/1382413735091638404/1456361158091997236/discord1.png?ex=69581585&is=6956c405&hm=3fdf65a0980971ecb995184579da01197c56b0ac915fbb4ada337b2e6b259957&=&format=webp&quality=lossless)
 
 [join](https://discord.gg/qwWBAWFAWQ) this rn
 
