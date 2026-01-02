@@ -7,16 +7,6 @@
 			"id": "body",
 			"invertAxis": "xy",
 			"translate": [0, -24, 0],
-			"submodels": [
-				{
-					"id": "body2",
-					"invertAxis": "xy",
-					"translate": [0, 24, 0],
-					"boxes": [
-						{"coordinates": [-4, -12, -2, 8, 12, 4], "textureOffset": [28, 25], "sizeAdd": 1}
-					]
-				}
-			],
 			"boxes": [
 				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 16], "sizeAdd": 1}
 			]

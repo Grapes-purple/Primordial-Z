@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 64],
-	"texture": "textures/entity/equipment/humanoid/chainmail.png",
 	"models": [
 		{
 			"part": "body",
