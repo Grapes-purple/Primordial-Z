@@ -13,14 +13,12 @@ A new 16x16 vibrant look for your minecraft experience, That uses different reso
 ## WIP
 **THE PACK IS STILL IN DEVELOPMENT AND ALL THINGS ARE EXPECTED TO CHANGE**
 
-<details>
-<summary>Spoiler</summary>
 
-![armor](https://cdn.modrinth.com/data/cached_images/5cf57af5afde2f61deb2100a406c8f4d62161630_0.webp)
+![armor](https://cdn.modrinth.com/data/cached_images/d1194a920dbb22d837b682286a0ec55fc3e12e7b.png)
 
 ![sprites](https://cdn.modrinth.com/data/cached_images/1fe845b2cc80ac6980a5c7f1079cf310c5aeadfb.png)
 
-</details>
+
 
 ## Socials
 ![discord](https://cdn.modrinth.com/data/cached_images/6853766dcd463b9a1da72687ed94f841f88e8ae8.png)
