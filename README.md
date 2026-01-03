@@ -8,8 +8,6 @@ A new 16x16 vibrant look for your minecraft experience, That uses different reso
 
 "[ETF](https://modrinth.com/mod/entitytexturefeatures)/[EMF](https://modrinth.com/mod/entity-model-features)":Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric
 
-![OF](https://cdn.modrinth.com/data/cached_images/dbd15e72dfed2017fdc4597c57af4c8d2a184cbc.png)
-
 ## WIP
 **THE PACK IS STILL IN DEVELOPMENT AND ALL THINGS ARE EXPECTED TO CHANGE**
 
