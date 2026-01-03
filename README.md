@@ -23,7 +23,7 @@ A new 16x16 vibrant look for your minecraft experience, That uses different reso
 ## Socials
 ![discord](https://cdn.modrinth.com/data/cached_images/6853766dcd463b9a1da72687ed94f841f88e8ae8.png)
 
-[join](https://discord.gg/qwWBAWFAWQ) this rn
+[join](https://discord.gg/qwWBAWFAWQ) the discord to know progress and stuff on the pack
 
 ![portfolio](https://cdn.modrinth.com/data/cached_images/d00d57ebfd2d6ee2920265753e661fd57653fab8.png)
 
